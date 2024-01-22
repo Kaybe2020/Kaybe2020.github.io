@@ -5,11 +5,10 @@ Ma veille tourne autour du domaine de l'ux game design. Pour créer mon site sta
 
 ## DEMO
 
-A venir
-
+Blog disponible à l'adresse : https://github.com/Kaybe2020/Kaybe2020.github.io
 
 
 ## Docs
-
+Ce site a été construit sur le thème de BryceRussel. Vous pouvez accéder à son repos avec les liens ci-dessous.
 This template is its own docs, You can read the docs using the [DEMO](https://minecraft-theme.netlify.app) or from the file at [./src/pages/docs/how-it-all-works.md](https://github.com/BryceRussell/astro-minecraft-theme/blob/master/src/pages/docs/how-it-all-works.md)
 

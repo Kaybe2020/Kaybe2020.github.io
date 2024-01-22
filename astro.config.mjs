@@ -4,7 +4,7 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'http://kayebe2020.github.io',
+  site: 'http://Kaybe2020.github.io',
   integrations: [
     tailwind({
       config: { applyBaseStyles: false },

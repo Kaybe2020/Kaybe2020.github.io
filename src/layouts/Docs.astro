@@ -5,6 +5,8 @@ import Footer from "~/components/Footer.astro";
 let docs = await Astro.glob('../pages/docs/*.md');
 docs = docs.filter((post) => !post.frontmatter.draft);
 
+docs.sort((a, b) => a.frontmatter.title.localeCompare(b.frontmatter.title));
+
 const index = docs.pop()
 
 const heading_depth_class_map = {

@@ -5,7 +5,7 @@ Ma veille tourne autour du domaine de l'ux game design. Pour créer mon site sta
 
 ## DEMO
 
-Blog disponible à l'adresse : https://github.com/Kaybe2020/Kaybe2020.github.io
+Blog disponible à l'adresse : https://www.Kaybe2020.github.io
 
 
 ## Docs

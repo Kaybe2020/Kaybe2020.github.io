@@ -32,7 +32,8 @@ Ce qui rend l'UX de Final Fantasy VII particulièrement impressionnant, c'est la
 
 La combinaison réussie d'une UX bien pensée, d'une histoire captivante, de musiques emblématiques et de l'exploitation ingénieuse des capacités de la console en a fait un chef-d'œuvre incontestable. Final Fantasy VII a transcendé les générations de joueurs, laissant une empreinte indélébile dans l'histoire du jeu vidéo et témoignant de l'impact durable qu'une conception d'interface bien exécutée peut avoir sur l'expérience globale d'un jeu.
 
-!["Final Fantasy 7](/imgs/Final_fantasy.jpg "Final Fantasy 7")
+!["Final Fantasy 7"](/imgs/Final_fantasy.jpg "Final Fantasy 7")
+!["Final fantasy 7"](/imgs/Final_fantasy.png "Final fantasy 7")
 
 ## The Legend of Zelda: Ocarina of Time
 
